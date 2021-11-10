@@ -1,9 +1,12 @@
-print("Programa a convertir a ejecutable")
+import requests
 
-suma = 2 + 2
 
-print("2+2: ", suma)
+def noticias():
+    document = r"./htmlbruto.txt"
+    with open(document, 'w', errors="ignore") as f:
+        r = requests.get(URL)
+        f.write(r.text)
 
-print("Hola Mundo")
+URL = "https://www.welivesecurity.com/la-es/"
 
-input()
+noticias()

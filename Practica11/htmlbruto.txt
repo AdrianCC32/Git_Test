@@ -1,0 +1,1039 @@
+<!doctype html>
+<html lang="es-LA" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="google-site-verification" content="_b2avZwzr79oru6lM2Ddae1fNpSIbPaP0H0WNkc2x3k"/>
+    <meta name="msvalidate.01" content="CE77828A466C2513F660017CFCB6BA13"/>
+    <link rel="icon" href="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/favicon.ico">
+
+    
+
+    
+    <link href="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/css/main.css?id=09d01dd87b618f2315ce" rel="stylesheet">
+    <script type="text/javascript"> var appInsights=window.appInsights||function(a){ function b(a){c[a]=function(){var b=arguments;c.queue.push(function(){c[a].apply(c,b)})}}var c={config:a},d=document,e=window;setTimeout(function(){var b=d.createElement("script");b.src=a.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js",d.getElementsByTagName("script")[0].parentNode.appendChild(b)});try{c.cookie=d.cookie}catch(a){}c.queue=[];for(var f=["Event","Exception","Metric","PageView","Trace","Dependency"];f.length;)b("track"+f.pop());if(b("setAuthenticatedUserContext"),b("clearAuthenticatedUserContext"),b("startTrackEvent"),b("stopTrackEvent"),b("startTrackPage"),b("stopTrackPage"),b("flush"),!a.disableExceptionTracking){f="onerror",b("_"+f);var g=e[f];e[f]=function(a,b,d,e,h){var i=g&&g(a,b,d,e,h);return!0!==i&&c["_"+f](a,b,d,e,h),i}}return c }({ instrumentationKey:"dcb460fe-684e-4d39-bfcd-d3a6f2710a32" }); window.appInsights=appInsights,appInsights.queue&&0===appInsights.queue.length&&appInsights.trackPageView(); </script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+        'Author': '(not set)',
+        'ArticleCategory': '(not set)',
+        'ArticleSection': '(not set)',
+        'cookie-bar-hq': true
+    });
+
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PMDGSM');
+</script>
+
+<!-- This site is optimized with the Yoast SEO plugin v9.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>WeLiveSecurity - Noticias de seguridad informática</title>
+<meta name="description" content="Portal con las últimas noticias en seguridad informática, además de investigaciones, análisis y descubrimiento de amenazas de la mano de los expertos de ESET."/>
+<link rel="canonical" href="https://www.welivesecurity.com/la-es/" />
+<link rel="next" href="https://www.welivesecurity.com/la-es/page/2/" />
+<meta property="og:locale" content="es_LA" />
+<meta property="og:locale:alternate" content="pt_BR" />
+<meta property="og:locale:alternate" content="fr_FR" />
+<meta property="og:locale:alternate" content="en_US" />
+<meta property="og:locale:alternate" content="de_DE" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="WeLiveSecurity - Noticias de seguridad informática" />
+<meta property="og:description" content="Portal con las últimas noticias en seguridad informática, además de investigaciones, análisis y descubrimiento de amenazas de la mano de los expertos de ESET." />
+<meta property="og:url" content="https://www.welivesecurity.com/la-es/" />
+<meta property="og:site_name" content="WeLiveSecurity" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Portal con las últimas noticias en seguridad informática, además de investigaciones, análisis y descubrimiento de amenazas de la mano de los expertos de ESET." />
+<meta name="twitter:title" content="WeLiveSecurity - Noticias de seguridad informática" />
+<meta name="twitter:site" content="@welivesecurity" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/backend.welivesecurity.com\/la-es\/","name":"WeLiveSecurity","potentialAction":{"@type":"SearchAction","target":"https:\/\/backend.welivesecurity.com\/la-es\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta name="google-site-verification" content="ogMJeR22ZD4nCc1nwdnrI5iKmqI8j0AN8aw3u5Jm7Fs" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" href="https://www.welivesecurity.com/br/" hreflang="pt" />
+<link rel="alternate" href="https://www.welivesecurity.com/fr/" hreflang="fr" />
+<link rel="alternate" href="https://www.welivesecurity.com/" hreflang="en" />
+<link rel="alternate" href="https://www.welivesecurity.com/la-es/" hreflang="es" />
+<link rel="alternate" href="https://www.welivesecurity.com/deutsch/" hreflang="de" />
+<link rel="alternate" type="application/rss+xml" title="WeLiveSecurity RSS 2.0 Feed" href="https://www.welivesecurity.com/la-es/configurar-rss/" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+            <link rel="alternate" href="https://www.welivesecurity.com/" hreflang="x-default"/>
+        <link id="cookie-style" rel="stylesheet" type="text/css" href="https://assets.esetstatic.com/3PS/cookiebar.min.css">
+</head>
+<body class="no-js">
+<noscript>
+	<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PMDGSM" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+<div class="main">
+    <header id="site-header" class="container">
+        <div class="row">
+            <div class="col-md-4 col-sm-12 col-xs-12 pull-right" id="header-nav">
+                <div class="row">
+                    <div class="col-xs-12 mobile-search-input">
+                        <form action="https://www.welivesecurity.com/la-es/" class="basic-searchform imc dark col-md-12 col-sm-10 col-xs-12" method="get" role="search">
+	<div class="search-input clearfix">
+		<input type="text" name="s" value="" placeholder="Buscar..." class="imc">
+		<button class="imc">
+			<span class="icomoon icon-icon_search imc"></span>
+		</button>
+	</div>
+</form>	                    </div>
+                    <div class="hidden-lg hidden-md col-sm-7 col-xs-8 hidden-xxs">
+                        <div class="logo-wrapper clearfix">
+    <div class="dark clearfix">
+        <a href="https://www.welivesecurity.com/la-es/" class="wls">
+            <img src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/new-logo/eset-wls-dark-header-1.svg" alt="Welivesecurity.com">
+        </a>
+        <a href="https://www.eset.com" class="eset">
+            <img src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/new-logo/eset-wls-dark-header-2.svg" alt="by ESET">
+        </a>
+    </div>
+    <div class="light clearfix">
+        <a href="https://www.welivesecurity.com/la-es/" class="wls">
+            <img src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/new-logo/eset-wls-light-header-1.svg" alt="Welivesecurity.com">
+        </a>
+        <a href="https://www.eset.com" class="eset">
+            <img src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/new-logo/eset-wls-light-header-2.svg" alt="by ESET">
+        </a>
+    </div>
+</div>                    </div>
+                    <div class="col-md-8 hidden-sm hidden-xs languages">
+                        <div class="dropdown">
+	<button class="btn btn-default dropdown-toggle" type="button" id="main-language-picker" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+    	<span class="text">En Español</span>
+    	<span class="icomoon icon-icon_arrow"></span>
+  	</button>
+  	<ul class="dropdown-menu" aria-labelledby="main-language-picker">
+            <li>
+        <a href="/br/" title="Em Português">
+            Em Português        </a>
+    </li>
+        <li>
+        <a href="/fr/" title="En français">
+            En français        </a>
+    </li>
+        <li>
+        <a href="/" title="In English">
+            In English        </a>
+    </li>
+        <li>
+        <a href="/deutsch/" title="In Deutsch">
+            In Deutsch        </a>
+    </li>
+      	</ul>
+</div>                    </div>
+                    <div class="col-md-4 col-sm-2 col-xs-3 menu-trigger">
+                        <div class="menu-btn">
+	<span class="text">Menu</span>
+	<button type="button" id="menu-trigger" class="tcon tcon-menu--xcross" aria-label="toggle menu">
+        <span class="wrapper">
+            <span class="tcon-menu__lines" aria-hidden="true"></span>
+            <span class="tcon-visuallyhidden">toggle menu</span>
+        </span>
+    </button>
+</div>                    </div>
+                    <div class="hidden-lg hidden-md hidden-sm hidden-xs col-xs-2 mobile-search imc">
+                        <button class="imc">
+                            <span class="icomoon icon-icon_search imc"></span>
+                        </button>
+                    </div>
+                    <div class="col-md-12 col-sm-12 col-xs-12 imc" id="main-menu">
+                        <nav class="menu clearfix imc">
+                            <ul class="col-md-12 col-sm-6 col-xs-6 imc">
+                                                                    <li class="">
+                                        <a href="/la-es/">
+                                            Últimos Posts                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.welivesecurity.com/la-es/category/investigaciones/">
+                                            Investigaciones                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.welivesecurity.com/la-es/multimedia/infografias/">
+                                            Infografías                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.welivesecurity.com/la-es/multimedia/videos/">
+                                            Videos                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.welivesecurity.com/la-es/multimedia/podcasts/">
+                                            Podcasts                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.welivesecurity.com/la-es/articulos/white-papers/">
+                                            White Papers                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.welivesecurity.com/la-es/articulos/reportes/">
+                                            Reportes                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.welivesecurity.com/la-es/articulos/guias/">
+                                            Guías                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.welivesecurity.com/la-es/nuestros-expertos/">
+                                            Nuestros Expertos                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.welivesecurity.com/la-es/glosario/">
+                                            Glosario                                        </a>
+                                    </li>
+                                                            </ul>
+
+                            <div class="col-md-12 col-sm-6 col-xs-6 imc">
+                                <ul class="languages hidden-lg hidden-md hidden-xxs col-xs-12 imc">
+                                        <li>
+        <a href="/br/" title="Em Português">
+            Em Português        </a>
+    </li>
+        <li>
+        <a href="/fr/" title="En français">
+            En français        </a>
+    </li>
+        <li>
+        <a href="/" title="In English">
+            In English        </a>
+    </li>
+        <li>
+        <a href="/deutsch/" title="In Deutsch">
+            In Deutsch        </a>
+    </li>
+                                    </ul>
+                                <div class="hidden-lg hidden-md col-xs-12 imc">
+                                    <form action="https://www.welivesecurity.com/la-es/" class="basic-searchform imc dark col-md-12 col-sm-10 col-xs-12" method="get" role="search">
+	<div class="search-input clearfix">
+		<input type="text" name="s" value="" placeholder="Buscar..." class="imc">
+		<button class="imc">
+			<span class="icomoon icon-icon_search imc"></span>
+		</button>
+	</div>
+</form>	                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                    <div class="menu-overlay col-md-12 col-sm-12 col-xs-12 imc">
+                        <div class="inner imc"></div>
+                    </div>
+                </div>
+                <div class="row hidden-sm hidden-xs">
+                    <form action="https://www.welivesecurity.com/la-es/" class="basic-searchform imc  col-md-12 col-sm-10 col-xs-12" method="get" role="search">
+	<div class="search-input clearfix">
+		<input type="text" name="s" value="" placeholder="Buscar..." class="imc">
+		<button class="imc">
+			<span class="icomoon icon-icon_search imc"></span>
+		</button>
+	</div>
+</form>	                </div>
+            </div>
+            <div class="col-md-5 hidden-sm hidden-xs pull-left" id="header-logo">
+                <div class="logo-wrapper clearfix">
+    <div class="dark clearfix">
+        <a href="https://www.welivesecurity.com/la-es/" class="wls">
+            <img src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/new-logo/eset-wls-dark-header-1.svg" alt="Welivesecurity.com">
+        </a>
+        <a href="https://www.eset.com" class="eset">
+            <img src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/new-logo/eset-wls-dark-header-2.svg" alt="by ESET">
+        </a>
+    </div>
+    <div class="light clearfix">
+        <a href="https://www.welivesecurity.com/la-es/" class="wls">
+            <img src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/new-logo/eset-wls-light-header-1.svg" alt="Welivesecurity.com">
+        </a>
+        <a href="https://www.eset.com" class="eset">
+            <img src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/new-logo/eset-wls-light-header-2.svg" alt="by ESET">
+        </a>
+    </div>
+</div>                <span class="slogan hidden-sm hidden-xs">
+						Noticias, opiniones y análisis de la <strong>comunidad de seguridad de ESET</strong>					</span>
+            </div>
+        </div>
+    </header>
+<section id="home-slider" class="container">
+	<div class="row inner">
+		<div class="col-md-8 col-sm-12 col-xs-12 main">
+			<div class="slick-home">
+								<article class="slide">
+					<a href="https://www.welivesecurity.com/la-es/2021/10/12/fontonlake-familia-malware-dirigida-linux/" style="background-image: url('../wp-content/uploads/2021/10/wls_penguin-fontonlake_1000x667-601x426.jpg'); background-position: 50% 50%;">
+						<div class="info">
+							<div class="col-md-12 no-padding category-wrapper">
+					 			<span class="category-tag-btn">Amenazas Informáticas</span>			 
+							</div>
+							
+															<img src="https://www.welivesecurity.com/wp-content/uploads/2019/11/vladislav-hrcka-150x150.jpg" alt="Vladislav Hrka" class="author">
+														
+							<div class="text clearfix">
+								<h2>FontOnLake: familia de malware previamente desconocida dirigida a Linux</h2>
+								<span class="meta">
+									<span class="author">Vladislav Hrka</span> 
+									<time datetime="2021-10-12 14:51:41">12 Oct 2021 - 02:51PM</time>
+								</span>
+							</div>
+						</div>						
+					</a>
+				</article>
+								<article class="slide">
+					<a href="https://www.welivesecurity.com/la-es/2021/10/01/panorama-amenazas-informaticas-segundo-cuatrimestre-2021/" style="background-image: url('../wp-content/uploads/2021/09/wls_T2-2021_Threat-report-1000x667-601x426.jpg'); background-position: 50% 50%;">
+						<div class="info">
+							<div class="col-md-12 no-padding category-wrapper">
+					 			<span class="category-tag-btn">Informes</span>			 
+							</div>
+							
+															<img src="https://www.welivesecurity.com/wp-content/uploads/2020/04/Roman_Kovac-150x150.jpg" alt="Roman Kovac" class="author">
+														
+							<div class="text clearfix">
+								<h2>Panorama de las amenazas informáticas en el segundo cuatrimestre de 2021</h2>
+								<span class="meta">
+									<span class="author">Roman Kovac</span> 
+									<time datetime="2021-10-01 14:18:48">1 Oct 2021 - 02:18PM</time>
+								</span>
+							</div>
+						</div>						
+					</a>
+				</article>
+								<article class="slide">
+					<a href="https://www.welivesecurity.com/la-es/2021/09/27/famoussparrow-grupo-cibercriminales-apunta-hoteles/" style="background-image: url('../wp-content/uploads/2021/09/eset-research-famoussparrow-apt-group-proxylogon-601x415.jpg'); background-position: 50% 50%;">
+						<div class="info">
+							<div class="col-md-12 no-padding category-wrapper">
+					 			<span class="category-tag-btn">Amenazas Informáticas</span>			 
+							</div>
+							
+															<img src="https://www.welivesecurity.com/wp-content/uploads/2021/09/Tahseen_Bin_Taj-150x150.jpg" alt="Tahseen Bin Taj" class="author">
+														
+							<div class="text clearfix">
+								<h2>FamousSparrow: grupo de cibercriminales que apunta al sector hotelero</h2>
+								<span class="meta">
+									<span class="author">Tahseen Bin Taj</span> 
+									<time datetime="2021-09-27 05:24:34">27 Sep 2021 - 05:24AM</time>
+								</span>
+							</div>
+						</div>						
+					</a>
+				</article>
+							</div>
+		</div>
+		<div class="col-md-4 hidden-sm hidden-xs side">
+						<article class="col-md-12 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/2021/11/09/arrestan-afiliados-ransomware-revil/" style="background-image: url('../wp-content/uploads/2021/11/Arrestan-afiliados-ransomware-REvil-601x426.jpg'); background-position: 50% 50%;">
+						<div class="info">
+							<div class="col-md-12 no-padding category-wrapper">
+                                <span class="category-tag-btn">Ransomware</span>                            </div>
+							<div class="text clearfix">
+								<h2>Arrestan a otros afiliados del ransomware REvil</h2>
+							</div>
+						</div>
+					</a>
+			</article>
+						<article class="col-md-12 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/2021/11/08/que-es-cyber-threat-intelligence/" style="background-image: url('../wp-content/uploads/2021/11/que-es-cyber-threat-intelligence-601x426.jpg'); background-position: 50% 50%;">
+						<div class="info">
+							<div class="col-md-12 no-padding category-wrapper">
+                                <span class="category-tag-btn">Seguridad Corporativa</span>                            </div>
+							<div class="text clearfix">
+								<h2>Qué es Cyber Threat Intelligence</h2>
+							</div>
+						</div>
+					</a>
+			</article>
+					</div>
+	</div>
+</section><div id="content" class="container">
+	<div class="row">
+		<section id="news-feed" class="col-md-8 col-sm-12 col-xs-12">
+			<div class="heading-line col-sm-8 col-xs-7 no-padding" id="articles-newest">
+				<h3>
+					<span class="text">Últimos artículos</span>
+				</h3>
+			</div>
+			<div class="dropdown col-sm-4 col-xs-5 no-padding">
+				<button class="btn btn-default dropdown-toggle basic" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+			    	<span class="text">Más recientes</span>
+			    	<span class="icomoon icon-icon_arrow"></span>
+			  	</button>
+			  	<ul class="dropdown-menu basic" aria-labelledby="main-language-picker">
+			        				        <li>
+				        	<a href="https://www.welivesecurity.com/la-es/?sort=popular#articles-popular">
+				        		Más populares			        		</a>
+				        </li>
+			    				  	</ul>
+			</div>
+			
+					<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/ransomware-latam/" class="category-tag-btn">Ransomware</a>				<a href="https://www.welivesecurity.com/la-es/2021/11/09/arrestan-afiliados-ransomware-revil/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/11/Arrestan-afiliados-ransomware-REvil.jpg" alt="Arrestan a otros afiliados del ransomware REvil">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/11/09/arrestan-afiliados-ransomware-revil/" title="Arrestan a otros afiliados del ransomware REvil">
+						Arrestan a otros afiliados del ransomware REvil					</a>
+				</h2>
+				<p>En total han sido siete los afiliados de REvil detenidos por las autoridades de distintos países en lo que va de este 2021.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/jmharan/" title="Posts by Juan Manuel Harán" class="author url fn" rel="author">Juan Manuel Harán</a>					<time datetime="2021-11-09 14:04:56">9 Nov 2021 - 02:04PM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/seguridad-corporativa/" class="category-tag-btn">Seguridad Corporativa</a>				<a href="https://www.welivesecurity.com/la-es/2021/11/08/que-es-cyber-threat-intelligence/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/11/que-es-cyber-threat-intelligence.jpg" alt="Qué es Cyber Threat Intelligence">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/11/08/que-es-cyber-threat-intelligence/" title="Qué es Cyber Threat Intelligence">
+						Qué es Cyber Threat Intelligence					</a>
+				</h2>
+				<p>Cyber Threat Intelligence es el arte de convertir los datos en inteligencia sobre amenazas informáticas para prevenir ataques. A continuación, explicamos qué comprende este proceso, los tipos de inteligencia y más.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/sol-gonzalez/" title="Posts by Sol González" class="author url fn" rel="author">Sol González</a>					<time datetime="2021-11-08 09:00:06">8 Nov 2021 - 09:00AM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/ransomware-latam/" class="category-tag-btn">Ransomware</a>				<a href="https://www.welivesecurity.com/la-es/2021/11/05/10-millones-dolares-recompensa-informacion-ransomware-darkside/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/11/10-millones-dólares-recompensa-información-ransomware-DarkSide.jpg" alt="10 millones de dólares de recompensa por información del grupo de ransomware DarkSide">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/11/05/10-millones-dolares-recompensa-informacion-ransomware-darkside/" title="10 millones de dólares de recompensa por información del grupo de ransomware DarkSide">
+						10 millones de dólares de recompensa por información del grupo de ransomware DarkSide					</a>
+				</h2>
+				<p>El gobierno de Estados Unidos anunció que ofrece recompensas de hasta 10 millones de dólares por información que conduzca a los operadores detrás del grupo de ransomware DarkSide.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/jmharan/" title="Posts by Juan Manuel Harán" class="author url fn" rel="author">Juan Manuel Harán</a>					<time datetime="2021-11-05 17:26:17">5 Nov 2021 - 05:26PM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/amenazas-informaticas-la/" class="category-tag-btn">Amenazas Informáticas</a>				<a href="https://www.welivesecurity.com/la-es/2021/11/05/que-es-gusano-informatico-caracteristicas/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/11/que-es-gusano-informático.jpg" alt="Qué es un gusano informático y cuáles son sus características">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/11/05/que-es-gusano-informatico-caracteristicas/" title="Qué es un gusano informático y cuáles son sus características">
+						Qué es un gusano informático y cuáles son sus características					</a>
+				</h2>
+				<p>Un gusano informático, también conocido como “worm”, es un tipo de malware que tiene la capacidad de propagarse de forma automatizada para infectar la mayor cantidad de computadoras posible.  </p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/fernando-tavella/" title="Posts by Fernando Tavella" class="author url fn" rel="author">Fernando Tavella</a>					<time datetime="2021-11-05 06:30:28">5 Nov 2021 - 06:30AM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/actualidad/" class="category-tag-btn">Actualidad</a>				<a href="https://www.welivesecurity.com/la-es/2021/11/04/token-squid-desploma-valor-debido-supuesta-estafa-rug-pull/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/11/estafa-rugg-pull-token-squid-game-juego-calamar.jpg" alt="El token Squid desploma su valor a causa de supuesta estafa de “rug pull”">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/11/04/token-squid-desploma-valor-debido-supuesta-estafa-rug-pull/" title="El token Squid desploma su valor a causa de supuesta estafa de “rug pull”">
+						El token Squid desploma su valor a causa de supuesta estafa de “rug pull”					</a>
+				</h2>
+				<p>El valor de mercado del token Squid utilizado para el juego inspirado en la serie de Netflix “El juego del calamar", había tenido un crecimiento abrupto en los últimos días, pero su valor se desplomó y aseguran que se trata de un fraude.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/jmharan/" title="Posts by Juan Manuel Harán" class="author url fn" rel="author">Juan Manuel Harán</a>					<time datetime="2021-11-04 14:17:27">4 Nov 2021 - 02:17PM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/antimalware-day/" class="category-tag-btn">Antimalware Day</a>				<a href="https://www.welivesecurity.com/la-es/2021/11/03/como-es-trabajo-de-malware-researcher/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/11/eset-antimalware-day-cybersecurity-pros-malware-researcher-1-623x432.png" alt="¿Cómo es el trabajo de un malware researcher?">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/11/03/como-es-trabajo-de-malware-researcher/" title="¿Cómo es el trabajo de un malware researcher?">
+						¿Cómo es el trabajo de un malware researcher?					</a>
+				</h2>
+				<p>Tres investigadores de ESET describen en qué consiste su trabajo, qué habilidades se necesitan para llevarlo adelante y comparten algunos consejos para emprender una carrera en el campo de la seguridad informática.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/editorla/" title="Posts by Editor" class="author url fn" rel="author">Editor</a>					<time datetime="2021-11-03 12:13:33">3 Nov 2021 - 12:13PM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/concientizacion-la/" class="category-tag-btn">Concientización</a>				<a href="https://www.welivesecurity.com/la-es/2021/11/02/ciberacoso-diferencia-bullying-cara-a-cara/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2020/02/cyberbullying-inperson-bullying-623x432.jpg" alt="Ciberacoso: ¿cómo se diferencia del acoso cara a cara?">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/11/02/ciberacoso-diferencia-bullying-cara-a-cara/" title="Ciberacoso: ¿cómo se diferencia del acoso cara a cara?">
+						Ciberacoso: ¿cómo se diferencia del acoso cara a cara?					</a>
+				</h2>
+				<p>La era digital ha agregado una dimensión completamente nueva al comportamiento abusivo, y analizamos algunas de las características clave que distinguen al acoso en persona y en línea.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/aowaida/" title="Posts by Amer Owaida" class="author url fn" rel="author">Amer Owaida</a>					<time datetime="2021-11-02 14:08:51">2 Nov 2021 - 02:08PM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/resumen-mensual-noticias-seguridad/" class="category-tag-btn">Resumen de noticias</a>				<a href="https://www.welivesecurity.com/la-es/2021/11/01/resumen-noticias-seguridad-destacadas-octubre-2/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/11/resumen-noticias-seguridad-informatica.jpg" alt="Resumen con las noticias de seguridad más destacadas que dejó octubre">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/11/01/resumen-noticias-seguridad-destacadas-octubre-2/" title="Resumen con las noticias de seguridad más destacadas que dejó octubre">
+						Resumen con las noticias de seguridad más destacadas que dejó octubre					</a>
+				</h2>
+				<p>Repasamos cuáles fueron las noticias de ciberseguridad más destacadas de octubre que publicamos en WeLiveSecurity.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/jmharan/" title="Posts by Juan Manuel Harán" class="author url fn" rel="author">Juan Manuel Harán</a>					<time datetime="2021-11-01 17:22:31">1 Nov 2021 - 05:22PM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/enganos-2/" class="category-tag-btn">Engaños</a>				<a href="https://www.welivesecurity.com/la-es/2021/11/01/engano-via-whatsapp-ofrece-falsas-tarjetas-de-supermercados-jumbo/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/11/engaño-whatsapp-jumbo.jpg" alt="Engaño vía WhatsApp ofrece falsas tarjetas de supermercados Jumbo">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/11/01/engano-via-whatsapp-ofrece-falsas-tarjetas-de-supermercados-jumbo/" title="Engaño vía WhatsApp ofrece falsas tarjetas de supermercados Jumbo">
+						Engaño vía WhatsApp ofrece falsas tarjetas de supermercados Jumbo					</a>
+				</h2>
+				<p>Estafadores suplantan la identidad de la cadena de supermercados para hacer creer que están regalando tarjetas con dinero por la celebración de su aniversario número 50. Jumbo también advirtió a sus clientes.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/martina-lopez/" title="Posts by Martina López" class="author url fn" rel="author">Martina López</a>					<time datetime="2021-11-01 04:44:12">1 Nov 2021 - 04:44AM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/vulnerabilidades-la/" class="category-tag-btn">Vulnerabilidades</a>				<a href="https://www.welivesecurity.com/la-es/2021/10/29/google-chrome-dos-nuevas-zero-day-explotadas-activamente/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/10/google-chrome-vulnerabilidad-zero-day.jpg" alt="Chrome repara dos nuevas zero&#8209;day explotadas activamente por atacantes">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/10/29/google-chrome-dos-nuevas-zero-day-explotadas-activamente/" title="Chrome repara dos nuevas zero&#8209;day explotadas activamente por atacantes">
+						Chrome repara dos nuevas zero&#8209;day explotadas activamente por atacantes					</a>
+				</h2>
+				<p>Google Chrome lanzó una nueva actualización para Windows, Mac y Linux que repara dos vulnerabilidades que están siendo explotadas por atacantes de forma activa.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/jmharan/" title="Posts by Juan Manuel Harán" class="author url fn" rel="author">Juan Manuel Harán</a>					<time datetime="2021-10-29 05:03:43">29 Oct 2021 - 05:03AM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/herramientas/" class="category-tag-btn">Herramientas</a>				<a href="https://www.welivesecurity.com/la-es/2021/10/28/herramientas-gratuitas-analisis-malware/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/10/herramientas-analisis-malware.jpg" alt="Herramientas gratuitas para análisis de malware">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/10/28/herramientas-gratuitas-analisis-malware/" title="Herramientas gratuitas para análisis de malware">
+						Herramientas gratuitas para análisis de malware					</a>
+				</h2>
+				<p>Un recorrido por distintas herramientas gratuitas que nos ayudará con el análisis estático y dinámico de malware.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/sol-gonzalez/" title="Posts by Sol González" class="author url fn" rel="author">Sol González</a>					<time datetime="2021-10-28 18:53:56">28 Oct 2021 - 06:53PM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/herramientas/" class="category-tag-btn">Herramientas</a>				<a href="https://www.welivesecurity.com/la-es/2021/10/27/cursos-online-iniciarse-analisis-malware/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/10/cursos-online-analisis-malware.jpg" alt="4 cursos online en Udemy para iniciarse en el análisis de malware">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/10/27/cursos-online-iniciarse-analisis-malware/" title="4 cursos online en Udemy para iniciarse en el análisis de malware">
+						4 cursos online en Udemy para iniciarse en el análisis de malware					</a>
+				</h2>
+				<p>Compartimos una lista con cuatro de los cursos de nivel inicial pagos y mejor valorados en la plataforma Udemy para introducirse en el mundo del análisis de malware.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/jmharan/" title="Posts by Juan Manuel Harán" class="author url fn" rel="author">Juan Manuel Harán</a>					<time datetime="2021-10-27 14:17:25">27 Oct 2021 - 02:17PM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/amenazas-informaticas-la/" class="category-tag-btn">Amenazas Informáticas</a>				<a href="https://www.welivesecurity.com/la-es/2021/10/26/aplicaciones-relacionada-juego-calamar-buscan-infectar-malware/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/10/juego-calamar-app-android-malware.jpg" alt="App relacionada con &#8220;El juego del calamar&#8221; utilizada para distribuir malware">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/10/26/aplicaciones-relacionada-juego-calamar-buscan-infectar-malware/" title="App relacionada con &#8220;El juego del calamar&#8221; utilizada para distribuir malware">
+						App relacionada con &#8220;El juego del calamar&#8221; utilizada para distribuir malware					</a>
+				</h2>
+				<p>La popularidad de la serie de Netflix está siendo aprovechada por ciberdelincuentes que buscan distribuir el troyano Joker a través de aplicaciones que ofrecen fondos de pantalla de la serie.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/jmharan/" title="Posts by Juan Manuel Harán" class="author url fn" rel="author">Juan Manuel Harán</a>					<time datetime="2021-10-26 05:14:19">26 Oct 2021 - 05:14AM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/amenazas-informaticas-la/" class="category-tag-btn">Amenazas Informáticas</a>				<a href="https://www.welivesecurity.com/la-es/2021/10/25/caracteristicas-troyano-acceso-remoto-wshrat/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/10/caracteristicas-wshrat-troyano-rat-malware.jpg" alt="WSHRAT: troyano de acceso remoto capaz de realizar múltiples acciones en un equipo infectado">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/10/25/caracteristicas-troyano-acceso-remoto-wshrat/" title="WSHRAT: troyano de acceso remoto capaz de realizar múltiples acciones en un equipo infectado">
+						WSHRAT: troyano de acceso remoto capaz de realizar múltiples acciones en un equipo infectado					</a>
+				</h2>
+				<p>Analizamos las principales características de WSHRAT, un troyano de acceso remoto (RAT) creado a partir del viejo malware Hworm que es utilizado activamente en campañas a nivel global.  </p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/fernando-tavella/" title="Posts by Fernando Tavella" class="author url fn" rel="author">Fernando Tavella</a>					<time datetime="2021-10-25 13:30:19">25 Oct 2021 - 01:30PM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/amenazas-informaticas-la/" class="category-tag-btn">Amenazas Informáticas</a>				<a href="https://www.welivesecurity.com/la-es/2021/10/22/propagan-malware-robar-credenciales-videos-youtube/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/10/campaña-propagan-malware-videos-youtube.jpg" alt="Propagan malware para robar credenciales a través de videos en YouTube">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/10/22/propagan-malware-robar-credenciales-videos-youtube/" title="Propagan malware para robar credenciales a través de videos en YouTube">
+						Propagan malware para robar credenciales a través de videos en YouTube					</a>
+				</h2>
+				<p>Cibercriminales están distribuyendo malware para robar credenciales mediante enlaces en la descripción de videos en YouTube sobre cracks, criptomonedas, licencias, cheats para juegos, entre otros temas.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/jmharan/" title="Posts by Juan Manuel Harán" class="author url fn" rel="author">Juan Manuel Harán</a>					<time datetime="2021-10-22 16:30:47">22 Oct 2021 - 04:30PM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/herramientas/" class="category-tag-btn">Herramientas</a>				<a href="https://www.welivesecurity.com/la-es/2021/10/21/como-detectar-codigos-maliciosos-reglas-suricata/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/10/reglas-suricata-malware.jpg" alt="Cómo detectar malware con reglas de Suricata">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/10/21/como-detectar-codigos-maliciosos-reglas-suricata/" title="Cómo detectar malware con reglas de Suricata">
+						Cómo detectar malware con reglas de Suricata					</a>
+				</h2>
+				<p>Una breve introducción a cómo implementar reglas en Suricata para detectar códigos maliciosos en una red.  </p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/sol-gonzalez/" title="Posts by Sol González" class="author url fn" rel="author">Sol González</a>					<time datetime="2021-10-21 09:00:58">21 Oct 2021 - 09:00AM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/ransomware-latam/" class="category-tag-btn">Ransomware</a>				<a href="https://www.welivesecurity.com/la-es/2021/10/20/varios-paises-mundo-comprometen-lucha-contra-ransomware/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/10/paises-comprometen-luchan-contra-ransomware.jpg" alt="Más de 30 países se comprometen en la lucha contra el ransomware">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/10/20/varios-paises-mundo-comprometen-lucha-contra-ransomware/" title="Más de 30 países se comprometen en la lucha contra el ransomware">
+						Más de 30 países se comprometen en la lucha contra el ransomware					</a>
+				</h2>
+				<p>Brasil, México y República Dominicana son los países de América Latina que se unieron en este comunicado conjunto entre varios países en el cual se comprometen a tomar medidas para mitigar el ransomware y todo el ecosistema que contribuye a su actividad.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/jmharan/" title="Posts by Juan Manuel Harán" class="author url fn" rel="author">Juan Manuel Harán</a>					<time datetime="2021-10-20 20:31:53">20 Oct 2021 - 08:31PM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/amenazas-informaticas-la/" class="category-tag-btn">Amenazas Informáticas</a>				<a href="https://www.welivesecurity.com/la-es/2021/10/19/campana-malware-activa-apunta-entidades-gubernamentales-educacion-colombia/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/10/Campaña-malware-activa-apunta-entidades-gubernamentales-educación-Colombia.jpg" alt="Campaña de malware activa apunta a entidades gubernamentales y de educación en Colombia">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/10/19/campana-malware-activa-apunta-entidades-gubernamentales-educacion-colombia/" title="Campaña de malware activa apunta a entidades gubernamentales y de educación en Colombia">
+						Campaña de malware activa apunta a entidades gubernamentales y de educación en Colombia					</a>
+				</h2>
+				<p>Investigadores de ESET alertan sobre una campaña maliciosa dirigida a Colombia que busca distribuir los troyanos de acceso remoto njRAT y AsyncRAT en los sistemas de las víctimas.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/jmharan/" title="Posts by Juan Manuel Harán" class="author url fn" rel="author">Juan Manuel Harán</a>					<time datetime="2021-10-19 14:00:51">19 Oct 2021 - 02:00PM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/ransomware-latam/" class="category-tag-btn">Ransomware</a>				<a href="https://www.welivesecurity.com/la-es/2021/10/18/grupos-ransomware-estan-apuntando-plantas-tratamiento-agua/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/10/grupos-ransomware-están-apuntando-plantas-tratamiento-agua.jpg" alt="Grupos de ransomware están apuntando a plantas de tratamiento de agua">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/10/18/grupos-ransomware-estan-apuntando-plantas-tratamiento-agua/" title="Grupos de ransomware están apuntando a plantas de tratamiento de agua">
+						Grupos de ransomware están apuntando a plantas de tratamiento de agua					</a>
+				</h2>
+				<p>Un comunicado firmado conjuntamente por varios organismos de Estados Unidos advierte sobre la continua actividad de amenazas informáticas apuntando a plantas de tratamiento de agua potable y residual.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/jmharan/" title="Posts by Juan Manuel Harán" class="author url fn" rel="author">Juan Manuel Harán</a>					<time datetime="2021-10-18 04:34:22">18 Oct 2021 - 04:34AM</time>
+				</span>
+			</div>
+		</article>
+		<article class="news-feed-item col-xs-12 no-padding">
+			<div class="img-wrapper col-sm-3 col-xs-4 no-padding">
+				<a href="https://www.welivesecurity.com/la-es/category/amenazas-informaticas-la/" class="category-tag-btn">Amenazas Informáticas</a>				<a href="https://www.welivesecurity.com/la-es/2021/10/15/que-es-adware-caracteristicas/">
+					<img class="col-xs-12 no-padding clickable" src="https://www.welivesecurity.com/wp-content/uploads/2021/10/que-es-adware.jpg" alt="Qué es un adware y cuáles son sus características">
+				</a>
+			</div>
+			<div class="text-wrapper col-sm-9 col-xs-8 no-padding">
+				<h2>
+					<a href="https://www.welivesecurity.com/la-es/2021/10/15/que-es-adware-caracteristicas/" title="Qué es un adware y cuáles son sus características">
+						Qué es un adware y cuáles son sus características					</a>
+				</h2>
+				<p>Adware es un software no deseado que despliega publicidad invasiva en la computadora o teléfono que puede incluso conducir a sitios maliciosos. Se distribuye a través de anuncios, aplicaciones dudosas o software gratuito, entre otras formas.</p>
+				<span class="meta">
+					<a href="https://www.welivesecurity.com/la-es/author/fernando-tavella/" title="Posts by Fernando Tavella" class="author url fn" rel="author">Fernando Tavella</a>					<time datetime="2021-10-15 15:18:03">15 Oct 2021 - 03:18PM</time>
+				</span>
+			</div>
+		</article>
+	<div class="pagination-wrapper col-xs-12 no-padding">
+		<div class='wp-pagenavi' role='navigation'>
+<span aria-current='page' class='current'>1</span><a class="page larger" title="Page 2" href="https://www.welivesecurity.com/la-es/page/2/">2</a><a class="page larger" title="Page 3" href="https://www.welivesecurity.com/la-es/page/3/">3</a><a class="page larger" title="Page 4" href="https://www.welivesecurity.com/la-es/page/4/">4</a><a class="page larger" title="Page 5" href="https://www.welivesecurity.com/la-es/page/5/">5</a><span class='extend'></span><a class="larger page" title="Page 10" href="https://www.welivesecurity.com/la-es/page/10/">10</a><a class="larger page" title="Page 20" href="https://www.welivesecurity.com/la-es/page/20/">20</a><a class="larger page" title="Page 30" href="https://www.welivesecurity.com/la-es/page/30/">30</a><a class="nextpostslink" rel="next" href="https://www.welivesecurity.com/la-es/page/2/">Siguiente</a>
+</div>	</div>
+		</section>
+
+		<aside id="sidebar" class="col-md-4 col-sm-12 col-xs-12">
+	<div class="inner">
+		<div class="heading-line col-md-12 no-padding sidebar-item" id="poll">
+	<h3>
+		<span class="text"></span>
+	</h3>
+	<div><div class="textwidget custom-html-widget"><a href="https://open.spotify.com/show/0Q32tisjNy7eCYwUNHphcw" target="_blank" rel="noopener"><img src="https://www.welivesecurity.com/wp-content/uploads/2021/07/podcast-conexi%C3%B3n-segura.png" alt="Conexión Segura: podcast de ESET Latinoamérica" width="359" height="418" /></a></div></div></div>
+<div class="heading-line col-md-12 no-padding sidebar-item social-media">
+	<h3>
+		<span class="text">Síguenos</span>
+	</h3>
+	<div class="icons-wrapper">
+					<a href="https://www.facebook.com/ESETLA" target="blank" data-toggle="tooltip" data-placement="top" data-original-title="¡Hazte fan en Facebook!">
+				<span class="icomoon icon-icon_fb"></span>
+			</a>
+					<a href="http://www.youtube.com/esetla" target="blank" data-toggle="tooltip" data-placement="top" data-original-title="Mira nuestros videos en YouTube">
+				<span class="icomoon icon-icon_yt"></span>
+			</a>
+					<a href="https://twitter.com/ESETLA" target="blank" data-toggle="tooltip" data-placement="top" data-original-title="Visita nuestra página de Twitter">
+				<span class="icomoon icon-icon_tw"></span>
+			</a>
+					<a href="https://www.linkedin.com/company/eset-latinoamerica" target="blank" data-toggle="tooltip" data-placement="top" data-original-title="Síguenos en LinkedIn">
+				<span class="icomoon icon-icon_in"></span>
+			</a>
+					<a href="https://www.welivesecurity.com/la-es/configurar-rss/" target="blank" data-toggle="tooltip" data-placement="top" data-original-title="¡No te pierdas ningún post!">
+				<span class="icomoon icon-icon_rss"></span>
+			</a>
+			</div>
+</div>		<div class="heading-line col-md-12 no-padding sidebar-item clearfix">
+			<h3>
+				<span class="text">Newsletter</span>
+			</h3>
+
+			<form action="https://enjoy.eset.com/pub/rf" class="basic-searchform col-md-12 col-sm-12 col-xs-12 no-padding newsletter" method="post" role="search">
+				<div class="search-input clearfix">
+                    <input type="text" name="EMAIL_ADDRESS_" value="" placeholder="Correo electrónico...">
+                    <input type="hidden" name="NEWSLETTER" value="We Live Security ES">
+
+                    <input type="hidden" name="_ri_" value="X0Gzc2X%3DAQpglLjHJlTQGgXv4jDGEK4KW2uhw0qgUzfwuivmOJOPCgzgo9vsI3VwjpnpgHlpgneHmgJoXX0Gzc2X%3DAQpglLjHJlTQGzbD6yU2pAgzaJM16bkTA7tOwuivmOJOPCgzgo9vsI3">
+                    <input type="hidden" name="_ei_" value="Ep2VKa8UKNIAPP_2GAEW0bY">
+                    <input type="hidden" name="_di_" value="m0a5n0j02duo9clmm4btuu5av8rdtvqfqd03v1hallrvcob47ad0">
+                    <input type="hidden" name="EMAIL_PERMISSION_STATUS_" value="O">
+                    <input type="hidden" name="CONTACT_SOURCE_MOST_RECENT" value="WLS_Subscribe_Form">
+                    <button>
+						Enviar					</button>
+				</div>
+			</form>
+		</div>
+		<div class="heading-line col-md-12 no-padding sidebar-item">
+			<h3>
+				<span class="text">Categorías</span>
+			</h3>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/amenazas-informaticas-la/">
+							Amenazas Informáticas						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/actualidad/">
+							Actualidad						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/alertas/">
+							Alertas						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/concientizacion-la/">
+							Concientización						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/seguridad-corporativa/">
+							Seguridad Corporativa						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/vulnerabilidades-la/">
+							Vulnerabilidades						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/enganos-2/">
+							Engaños						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/phishing-la-es/">
+							Phishing						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/consejos-la/">
+							Consejos						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/ransomware-latam/">
+							Ransomware						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/tutoriales/">
+							Tutoriales						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/investigaciones/">
+							Investigaciones						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/ingenieria-social/">
+							Ingeniería Social						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/cibercrimen-la/">
+							Cibercrimen						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/redes-sociales-la/">
+							Redes Sociales						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/menores/">
+							Menores						</a>
+									<a class="category-tag-btn featured" href="https://www.welivesecurity.com/la-es/category/campanas-maliciosas-covid-19/">
+							COVID-19						</a>
+									<a class="category-tag-btn 1" href="https://www.welivesecurity.com/la-es/category/cursos-online-gratuitos-seguridad/">
+							Cursos online gratuitos						</a>
+					</div>
+
+<div class="heading-line col-md-12 no-padding sidebar-item our-experts">
+	<h3>
+		<span class="text">Nuestros expertos</span>
+	</h3>
+	<div class="authors-wrapper row">
+						<div class="col-md-4 col-sm-3 col-xs-3 author">
+					<a href="https://www.welivesecurity.com/la-es/author/cgutierrez/">
+						<div class="img-wrapper">
+							<img src="https://www.welivesecurity.com/wp-content/uploads/2020/03/camilo_gutierrez-150x150.jpg" alt="Camilo Gutiérrez Amaya">
+						</div>
+						<span class="text">Camilo Gutiérrez Amaya</span>
+					</a>
+				</div>
+						<div class="col-md-4 col-sm-3 col-xs-3 author">
+					<a href="https://www.welivesecurity.com/la-es/author/cpastorino/">
+						<div class="img-wrapper">
+							<img src="https://www.welivesecurity.com/wp-content/uploads/2017/01/Cecilia-Pastorino-WLS-150x150.jpg" alt="Cecilia Pastorino">
+						</div>
+						<span class="text">Cecilia Pastorino</span>
+					</a>
+				</div>
+						<div class="col-md-4 col-sm-3 col-xs-3 author">
+					<a href="https://www.welivesecurity.com/la-es/author/mendozam/">
+						<div class="img-wrapper">
+							<img src="https://www.welivesecurity.com/wp-content/uploads/2014/07/mm-150x150.jpg" alt="Miguel Ángel Mendoza">
+						</div>
+						<span class="text">Miguel Ángel Mendoza</span>
+					</a>
+				</div>
+						<div class="col-md-4 col-sm-3 col-xs-3 author">
+					<a href="https://www.welivesecurity.com/la-es/author/jalbors/">
+						<div class="img-wrapper">
+							<img src="https://www.welivesecurity.com/wp-content/uploads/2020/03/josep-albors-222-172-150x150.jpg" alt="Josep Albors">
+						</div>
+						<span class="text">Josep Albors</span>
+					</a>
+				</div>
+						<div class="col-md-4 col-sm-3 col-xs-3 author">
+					<a href="https://www.welivesecurity.com/la-es/author/dbarbosa/">
+						<div class="img-wrapper">
+							<img src="https://www.welivesecurity.com/wp-content/uploads/2018/11/Daniel-150x150.jpg" alt="Daniel Cunha Barbosa">
+						</div>
+						<span class="text">Daniel Cunha Barbosa</span>
+					</a>
+				</div>
+						<div class="col-md-4 col-sm-3 col-xs-3 author">
+					<a href="https://www.welivesecurity.com/la-es/author/martina-lopez/">
+						<div class="img-wrapper">
+							<img src="https://www.welivesecurity.com/wp-content/uploads/2020/11/martina-lópez-150x150.jpg" alt="Martina López">
+						</div>
+						<span class="text">Martina López</span>
+					</a>
+				</div>
+						<div class="col-md-4 col-sm-3 col-xs-3 author">
+					<a href="https://www.welivesecurity.com/la-es/author/fernando-tavella/">
+						<div class="img-wrapper">
+							<img src="https://www.welivesecurity.com/wp-content/uploads/2021/07/fernando-150x150.jpg" alt="Fernando Tavella">
+						</div>
+						<span class="text">Fernando Tavella</span>
+					</a>
+				</div>
+						<div class="col-md-4 col-sm-3 col-xs-3 author">
+					<a href="https://www.welivesecurity.com/la-es/author/facundo-munoz/">
+						<div class="img-wrapper">
+							<img src="https://www.welivesecurity.com/wp-content/uploads/2021/02/f.muñoz-150x150.jpg" alt="Facundo Muñoz">
+						</div>
+						<span class="text">Facundo Muñoz</span>
+					</a>
+				</div>
+						<div class="col-md-4 col-sm-3 col-xs-3 author">
+					<a href="https://www.welivesecurity.com/la-es/author/jmharan/">
+						<div class="img-wrapper">
+							<img src="https://www.welivesecurity.com/wp-content/uploads/2018/03/haran-juan-WLS-150x150.jpg" alt="Juan Manuel Harán">
+						</div>
+						<span class="text">Juan Manuel Harán</span>
+					</a>
+				</div>
+			</div>
+		<div class="wrapper">
+		<a class="my-btn btn-light" href="https://www.welivesecurity.com/la-es/nuestros-expertos/">
+			Todos los expertos		</a>
+	</div>
+</div>
+<div class="heading-line col-md-12 no-padding sidebar-item">
+	<div class="nwg-promo clearfix">
+        <div class="text">
+            <p>
+               Integra las noticias de WeLiveSecurity a tu sitio. Configura la apariencia y los temas según tus preferencias.            </p>
+            <img src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/nwg-sidebar-screenshot.jpg" alt="News Widget Generator">
+        </div>
+        <div class="button-wrapper">
+	        <a href="https://www.welivesecurity.com/la-es/news-widget-generator-la-es/" class="my-btn">
+    	    	Crea el Widget	        </a>
+        </div>
+    </div>
+</div>
+	</div>
+</aside>	</div>
+</div>
+	</div> 	<footer id="site-footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2">
+                    <div class="hidden-sm hidden-xs">
+                        <div class="logo-wrapper footer clearfix">
+                            <div class="dark clearfix">
+                                <a href="https://www.welivesecurity.com/la-es/" class="wls">
+                                    <img src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/new-logo/eset-wls-footer-1.svg" alt="Welivesecurity.com">
+                                </a>
+                                <a href="https://www.eset.com" class="eset">
+                                    <img src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/new-logo/eset-wls-footer-2.svg" alt="by ESET">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hidden-lg hidden-md">
+                        <div class="logo-wrapper clearfix">
+    <div class="dark clearfix">
+        <a href="https://www.welivesecurity.com/la-es/" class="wls">
+            <img src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/new-logo/eset-wls-dark-header-1.svg" alt="Welivesecurity.com">
+        </a>
+        <a href="https://www.eset.com" class="eset">
+            <img src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/new-logo/eset-wls-dark-header-2.svg" alt="by ESET">
+        </a>
+    </div>
+    <div class="light clearfix">
+        <a href="https://www.welivesecurity.com/la-es/" class="wls">
+            <img src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/new-logo/eset-wls-light-header-1.svg" alt="Welivesecurity.com">
+        </a>
+        <a href="https://www.eset.com" class="eset">
+            <img src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/img/new-logo/eset-wls-light-header-2.svg" alt="by ESET">
+        </a>
+    </div>
+</div>                    </div>
+				</div>
+				<nav id="footer" class="clearfix">
+											<div class="mobile-block">
+																<div class="col-md-2 col-md-offset-2">
+										<ul>
+																							<li>
+													<a href="/la-es">Inicio</a>
+												</li>
+																							<li>
+													<a href="https://www.welivesecurity.com/la-es/acerca-de/">Acerca de</a>
+												</li>
+																							<li>
+													<a href="https://www.welivesecurity.com/la-es/contactanos/">Contáctanos</a>
+												</li>
+																					</ul>
+									</div>
+																<div class="col-md-2 ">
+										<ul>
+																							<li>
+													<a href="https://www.welivesecurity.com/la-es/mapa-del-sitio/">Mapa del Sitio</a>
+												</li>
+																							<li>
+													<a href="https://www.welivesecurity.com/la-es/nuestros-expertos/">Nuestros Expertos</a>
+												</li>
+																							<li>
+													<a href="https://eset.com">ESET</a>
+												</li>
+																					</ul>
+									</div>
+													</div>
+											<div class="mobile-block">
+																<div class="col-md-2 ">
+										<ul>
+																							<li>
+													<a href="https://www.welivesecurity.com/la-es/category/investigaciones/">Investigaciones</a>
+												</li>
+																							<li>
+													<a href="https://www.welivesecurity.com/la-es/category/tutoriales/">Tutoriales</a>
+												</li>
+																							<li>
+													<a href="https://www.welivesecurity.com/la-es/categorias-2/">Categorías</a>
+												</li>
+																					</ul>
+									</div>
+																<div class="col-md-2 ">
+										<ul>
+																							<li>
+													<a href="https://www.welivesecurity.com/la-es/configurar-rss/">RSS</a>
+												</li>
+																							<li>
+													<a href="https://www.welivesecurity.com/la-es/news-widget-generator-la-es/">Noticias</a>
+												</li>
+																					</ul>
+									</div>
+													</div>
+									</nav>
+			</div>
+			<div class="row">
+				<div class="col-md-12 legal clearfix">
+					<div class="wrap clearfix">
+													<span>
+								<a href="https://www.welivesecurity.com/la-es/politica-de-privacidad/">
+									Política de Privacidad								</a>
+							</span>
+													<span>
+								<a href="https://www.welivesecurity.com/la-es/informacion-legal/">
+									Información Legal								</a>
+							</span>
+											</div>
+					<span class="copyright pull-right">Copyright &copy; ESET, Todos Los Derechos Reservados</span>
+				</div>
+							</div>
+		</div>
+	</footer>
+	
+	<button id="back-to-top" class="animated-scroll" data-target="absoluteTop">
+		<span class="icomoon icon-icon_arrow"></span>
+		<span class="text">Back to top</span>
+	</button>
+
+	
+	<script>
+		var baseUrl = "https://www.welivesecurity.com/la-es/";
+	</script>
+	
+			<script>
+            !function(){if(-1==window.document.cookie.indexOf("user_rec=1")){function e(e,o){var t=document.createElement("img");t.setAttribute("style","display:none"),t.src=e+o,window.document.body.appendChild(t)}function o(){d||Math.random(1e6,9999999),a="?v=1&cid="+d+"&tid="+l+"&dl="+g+"&t=event&ec=Tracking%20check%20-%20recurring&ea=Default%20status&ni=1&cd1="+w+"&aip=1&z="+Math.floor(1e6*Math.random(0,1)),c="?country=wls&gcode=defaultStatus&z="+Math.floor(1e6*Math.random(0,1)),e(u,a),e(s,c)}function t(){console.log("GA and GTM are loaded."),d=ga.getAll()[0].get("clientId"),a="?v=1&cid="+d+"&tid="+l+"&dl="+g+"&t=event&ec=Tracking%20check%20-%20recurring&ea=GA%20loaded,%20GTM%20loaded&ni=1&cd1="+w+"&aip=1&z="+Math.floor(1e6*Math.random(0,1)),c="?country=wls&gcode=11",e(u,a),e(s,c)}function n(){var e=new Date;e.setTime(e.getTime()+63072e6);var o="expires="+e.toUTCString();window.document.cookie="user_rec=1; "+o+"; path=/"}var d,a,c,i,r,l="UA-76266002-27",g=window.location.href,s="https://cdn1.esetstatic.com/ESET/INT/assets/img/check.png",u="https://www.google-analytics.com/collect",w="wls",m=0,h=function e(){i=window.ga&&ga.create?1:0,r=window.google_tag_manager?1:0,m++,console.log("Timer: ",m),h=setTimeout(e,500)};window.document.addEventListener&&(d=1e6*Math.random(1e6,9999999),a="?v=1&cid="+d+"&tid="+l+"&dl="+g+"&t=event&ec=Tracking%20check%20-%20recurring&ea=Script%20loaded&ni=1&cd1="+w+"&aip=1&z="+Math.floor(1e6*Math.random(0,1)),c="?country=wls&gcode=scriptLoaded&z="+Math.floor(1e6*Math.random(0,1)),e(u,a),e(s,c),window.addEventListener("beforeunload",o),window.ga&&ga.create&&window.google_tag_manager?(t(),window.removeEventListener("beforeunload",o),n()):(setTimeout(h,500),setTimeout(function(){clearTimeout(h),i&&r?t():i&&!r?(console.log("GA is loaded and GTM is blocked."),d=ga.getAll()[0].get("clientId"),a="?v=1&cid="+d+"&tid="+l+"&dl="+g+"&t=event&ec=Tracking%20check%20-%20recurring&ea=GA%20loaded,%20GTM%20blocked&ni=1&cd1="+w+"&aip=1&z="+Math.floor(1e6*Math.random(0,1)),c="?country=wls&gcode=10",e(u,a),e(s,c)):!i&&r?(console.log("GA is blocked and GTM is loaded."),d||Math.random(1e6,9999999),a="?v=1&cid="+d+"&tid="+l+"&dl="+g+"&t=event&ec=Tracking%20check%20-%20recurring&ea=GA%20blocked,%20GTM%20loaded&ni=1&cd1="+w+"&aip=1&z="+Math.floor(1e6*Math.random(0,1)),c="?country=wls&gcode=01",e(u,a),e(s,c)):i||r||(console.log("GA is blocked and GTM is blocked."),d||Math.random(1e6,9999999),a="?v=1&cid="+d+"&tid="+l+"&dl="+g+"&t=event&ec=Tracking%20check%20-%20recurring&ea=GA%20blocked,%20GTM%20blocked&ni=1&cd1="+w+"&aip=1&z="+Math.floor(1e6*Math.random(0,1)),c="?country=wls&gcode=00",e(u,a),e(s,c)),window.removeEventListener("beforeunload",o),n()},1e4)))}}();
+		</script>
+	
+	<script src="https://www.welivesecurity.com/wp-content/themes/eset-wls-2018/assets/js/main.js?id=fef3139dcedd23afc232"></script>
+    <!-- Version: v1.4.3.9e6507.pro.awus -->
+    
+		
+    <script>
+    	Main.init();
+    </script>
+
+    <script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"welivesecurity"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.welivesecurity.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.16'></script>
+    <script src="https://assets.esetstatic.com/3PR/app.min.js"></script>
+  </body>
+</html>

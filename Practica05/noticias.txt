@@ -1,0 +1,28 @@
+Las 3 noticias más recientes sobre seguridad informática: 
+____________________________________________________________________________________________________________________________________________________________________________________
+
+
+						Chrome repara dos nuevas zeroday explotadas activamente por atacantes					
+
+Google Chrome lanzó una nueva actualización para Windows, Mac y Linux que repara dos vulnerabilidades que están siendo explotadas por atacantes de forma activa.
+
+Juan Manuel Harán 29 Oct 2021 - 05:03AM
+
+____________________________________________________________________________________________________________________________________________________________________________________
+
+
+						Herramientas gratuitas para análisis de malware					
+
+Un recorrido por distintas herramientas gratuitas que nos ayudará con el análisis estático y dinámico de malware.
+
+Sol González 28 Oct 2021 - 06:53PM
+
+____________________________________________________________________________________________________________________________________________________________________________________
+
+
+						4 cursos online en Udemy para iniciarse en el análisis de malware					
+
+Compartimos una lista con cuatro de los cursos de nivel inicial pagos y mejor valorados en la plataforma Udemy para introducirse en el mundo del análisis de malware.
+
+Juan Manuel Harán 27 Oct 2021 - 02:17PM
+
